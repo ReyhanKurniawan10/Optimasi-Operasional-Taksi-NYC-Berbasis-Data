@@ -48,11 +48,13 @@ Proyek ini bertujuan untuk mengeksplorasi bagaimana efisiensi dan pendapatan ope
 
 ## Struktur Repositori
 
- ┣  data
- ┃ ┗ clean
-     ┗ NYCTLCTripRecordClean.csv
- ┃ ┗ raw
-     ┗ NYC TLC Trip Record.csv
- ┣ notebooks
-   ┗ Capstone 2.ipynb
- ┣ README.md
+├── data
+│   ├── clean
+│   │   └── NYCTLCTripRecordClean.csv
+│   └── raw
+│       └── NYC TLC Trip Record.csv
+├── notebooks
+│   └── Capstone 2.ipynb
+├── slide
+│   └── Capstone 2 - Reyhan Kurniawan [NYC TLC].pdf
+└── README.md
